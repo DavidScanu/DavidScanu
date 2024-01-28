@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 🤖 I'm a student in artificial intelligence at the Microsoft AI School by Simplon and ISEN, 1st promotion of Caen (France). I practice rollerblading in my free time!
 
